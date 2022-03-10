@@ -563,8 +563,8 @@ ul.wmuSliderPagination {
     display: block;
     left: 0;
     top: 0px;
-    width: 290px;
-    height: 85%;
+    width: 0px;
+    height: 0%;
     background: url(../images/zoom-icon.png) center center no-repeat;
     cursor: pointer;
     transition: all .2s ease-in-out;
@@ -573,8 +573,10 @@ ul.wmuSliderPagination {
     -o-transition: all .2s ease-in-out;
 }
 
-.grid_box .zoom-icon {
-    width: 100%;
+
+
+.zoom-icon {
+    width: 10%;
 }
 
 .grid_box a:hover .zoom-icon {
