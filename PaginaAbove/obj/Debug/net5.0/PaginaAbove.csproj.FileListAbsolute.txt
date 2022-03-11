@@ -121,7 +121,6 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\ne
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.runtimeconfig.json
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.runtimeconfig.dev.json
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.dll
-C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\ref\PaginaAbove.dll
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.pdb
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.Views.dll
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\PaginaAbove.Views.pdb
@@ -230,3 +229,4 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\ne
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\ref\PaginaAbove.dll
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\PaginaAbove.pdb
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\PaginaAbove.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\refint\PaginaAbove.dll
