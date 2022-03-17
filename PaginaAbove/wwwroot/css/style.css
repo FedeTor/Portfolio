@@ -914,8 +914,8 @@ h2.resp-accordion {
         border-bottom: 1px solid#d5d6d7;
         font-size: 15px;
         color: #d5d6d7;
-        text-transform: capitalize;
-        padding: 10px 0;
+        /*text-transform: capitalize;*/
+        padding: 10px 0;       
     }
 
 .contactgrid1 textarea {
@@ -927,7 +927,7 @@ h2.resp-accordion {
     border-bottom: 1px solid#d5d6d7;
     font-size: 15px;
     color: #d5d6d7;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     padding: 10px 0;
     height: 2.8em;
 }

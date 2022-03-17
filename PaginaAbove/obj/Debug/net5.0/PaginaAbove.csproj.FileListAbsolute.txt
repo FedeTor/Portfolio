@@ -230,3 +230,8 @@ C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\ne
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\PaginaAbove.pdb
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\PaginaAbove.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\refint\PaginaAbove.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\Portfolio\Portfolio\PaginaAbove\obj\Debug\net5.0\Razor\Views\Home\EnvioMailCorrecto.cshtml.g.cs
